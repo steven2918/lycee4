@@ -1,0 +1,28 @@
+.container {
+	margin: 0;
+}
+
+<!-- page acceuil -->
+
+.article1, .article2{
+	margin: 20px;
+}
+
+.inline-form input {
+	display: inline-block;
+	width: 100px;
+}
+.carousel-inner {
+	border: 2px solid white;
+	box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+}
+
+#main{
+	max-width: 1200px;
+	margin: 0 auto;
+
+}
+
+img{
+	width: 100%
+}
